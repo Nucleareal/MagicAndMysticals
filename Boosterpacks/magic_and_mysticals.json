@@ -1,0 +1,24 @@
+{
+  "id": "stella_magic_booster",
+  "nameTerm": "stella_magic_booster_name",
+  "minQuestCount": 3,
+  "cost": 25,
+  "icon": "booster.png",
+  "location": "Mainland",
+  "cardBags": [
+    {
+      "CardBagType": "Chances",
+      "Cards": 1,
+      "SetCardBag": "BasicResources",
+      "Chances": [
+		{
+          "Id": "stella_magic_stellanium_rock",
+          "Chance": 1,
+          "HasMaxCount": false,
+          "HasPrerequisiteCard": false,
+          "IsEnemy": false
+        }
+      ]
+    }
+  ]
+}

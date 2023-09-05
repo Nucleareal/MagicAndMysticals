@@ -1,0 +1,9 @@
+{
+  "id": "stella_magic_stellanium_shard",
+  "nameTerm": "stella_magic_stellanium_shard_name",
+  "descriptionTerm": "stella_magic_stellanium_shard_description",
+  "icon": "stellanium_shard.png",
+  "value": 3,
+  "type": "Resources",
+  "script": "Resource"
+}

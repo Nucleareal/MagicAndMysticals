@@ -1,0 +1,31 @@
+{
+  "id": "stella_magic_stellanium_rock",
+  "nameTerm": "stella_magic_stellanium_rock_name",
+  "descriptionTerm": "stella_magic_stellanium_rock_description",
+  "icon": "stellanium_rock.png",
+  "value": 1,
+  "type": "Structures",
+  "script": "Harvestable",
+  "_StatusTerm": "stella_magic_stellanium_rock_mining_status",
+  "_MyCardBag":	{
+		"CardBagType": "Chances",
+		"Cards": 1,
+		"SetCardBag": "AdvancedResources",
+		"Chances": [
+			{
+				"Id": "stella_magic_stellanium_shard",
+				"Chance": 1,
+				"HasMaxCount": false,
+				"HasPrerequisiteCard": false,
+				"IsEnemy": false
+			},
+			{
+				"Id": "stone",
+				"Chance": 6,
+				"HasMaxCount": false,
+				"HasPrerequisiteCard": false,
+				"IsEnemy": false
+			}
+		]
+	}
+}

@@ -1,0 +1,23 @@
+{
+  "id": "stella_magic_white_night",
+  "nameTerm": "stella_magic_white_night_name",
+  "descriptionTerm": "stella_magic_white_night_description",
+  "type": "Mobs",
+  "icon": "white_night.png",
+  "value": -1,
+  "script": "StellaMagicNS.WhiteNight",
+  "_HasUniquePalette": true,
+  "_MyPalette": {
+    "Color": "#000000",
+    "Color2": "#3f3f3f",
+    "Icon": "#FF0000"
+  },
+  "_BaseCombatStats": {
+    "MaxHealth": 495,
+    "AttackDamage": 10,
+    "AttackSpeed": 0.2,
+    "Defence": 5,
+    "HitChance": 0.5
+  },
+  "_HealthPoints": 495
+}
